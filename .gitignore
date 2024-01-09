@@ -1,0 +1,9 @@
+data
+.idea
+idea
+venv
+.venv
+*.swp
+__pycache__
+.__pycache__
+.DS_Store
